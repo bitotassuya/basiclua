@@ -8,8 +8,9 @@ print(type(type(X))) -- string
 
 print(A)
 
-A = true
+A = nil
 B = false
-if A == true then
-    print("A =", true)
+
+if A == B then
+    print("A = B")
 end
