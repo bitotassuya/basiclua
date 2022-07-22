@@ -10,9 +10,12 @@ function max(num1, num2)
 end
 
 -- calling a function
+-- in call funtion has argument
 print("The maximum of the two numbers is ", max(10, 4))
 print("The maximum of the two numbers is ", max(5, 6))
---[[  function name(param1, param2, ...) 
+
+--[[    function name(param1, param2, ...) 
             Statements
             return value; // Optional
+        end
 --]]
