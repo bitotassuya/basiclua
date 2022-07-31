@@ -13,7 +13,6 @@ end
 
 print("------------------")
 
--- 修改 a 和 b 的值
 a = false
 b = true
 
